@@ -37,3 +37,9 @@ POST
 
 ### 3. /ads/relevant - Открутка объявления.
 GET
+
+## TODO: 
+PHPUnit
+Ослабдение свзаность
+Шаблоны
+DriverManager
